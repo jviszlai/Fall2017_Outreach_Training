@@ -4,6 +4,7 @@ public class November_11 {
 	
 	public static void main(String[] args) {
 		/*
+		 * new thing!
 		 * Create a method that takes in one parameter of type int
 		 * that is the number of rows.
 		 * The method will print out a triangle
